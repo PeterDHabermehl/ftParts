@@ -7,7 +7,7 @@ For use with the Igarashi power motors which come without a tail cap.
 
 <img src="https://github.com/PeterDHabermehl/ftParts/raw/master/Powermotor_cap/PM_mit_Kappe.JPG">
 
-<img src="https://github.com/PeterDHabermehl/ftParts/raw/master/Powermotor_cap/Kappe1.png">
+<img src="https://github.com/PeterDHabermehl/ftParts/raw/master/Powermotor_cap/Kappe1.png" width="50%" height="50%">
 
-<img src="https://github.com/PeterDHabermehl/ftParts/raw/master/Powermotor_cap/Kappe2.png">
+<img src="https://github.com/PeterDHabermehl/ftParts/raw/master/Powermotor_cap/Kappe2.png" width="50%" height="50%">
 
